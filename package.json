@@ -1,0 +1,19 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "JavaScript相关代码demo实践",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github:Gray-wl/js-practice.git"
+  },
+  "keywords": [],
+  "author": "Gray",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  }
+}
